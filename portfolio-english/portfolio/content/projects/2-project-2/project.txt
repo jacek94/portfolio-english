@@ -1,0 +1,12 @@
+Title: Strona Internetowa dla firmy Wikada
+
+
+
+----
+
+
+
+
+Text: 
+
+Wykorzystane technologie: Javascript, HTML, CSS

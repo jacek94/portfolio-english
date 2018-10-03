@@ -1,0 +1,38 @@
+﻿Title: Jacek  Woźniak | Portfolio
+
+----
+
+Text: 
+
+----
+
+About-text: 
+
+#About me
+(image: picture.jpg)
+My name is Jacek and i was always passion with programming. With the passing of time i learned how to create websites and web applications .Currently i am still developing my programming skills. In  portfolio bookmark you can see websites created by me. 
+
+----
+
+Resume-text: 
+
+#Podsumowanie
+
+
+
+###Skills:
+HTML/CSS
+Javascript
+PHP
+Git
+
+
+
+###Wykształcenie
+
+2010-2014
+Technik elektronik. Zespół  Szkół Górniczo-Energetycznych im Stanisława  Staszica w Koninie
+
+2014 - 2017
+Informatyka Stosowana. Uniwersytet Technologiczno - Przyrodniczy w Bydgoszczy
+
