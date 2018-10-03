@@ -9,7 +9,7 @@ DEFINE("PNG", "PNG");
 **/
 class Optimizer {
 
-  private $quality = 90;        // 0 (worst quality) to 100 (best quality)
+  private $quality = 100;        // 0 (worst quality) to 100 (best quality)
   private $image = "";          // image path
   private $copy = "";           // optimized image path
   private $max_width = false;   // scale down to this width

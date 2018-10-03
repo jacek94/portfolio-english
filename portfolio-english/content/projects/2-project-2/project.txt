@@ -1,0 +1,12 @@
+Title: Website for Wikada company
+
+
+
+----
+
+
+
+
+Text: 
+
+Used technologies: Javascript, HTML, CSS

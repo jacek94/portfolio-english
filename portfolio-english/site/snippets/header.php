@@ -17,7 +17,7 @@
 
   <header class="header cf" role="banner">
     <a href="<?php echo url() ?>">
-      strona główna
+      home page
     </a>
     <div class="title-text">
       <h3><?php echo $site->title()->html() ?></h3>

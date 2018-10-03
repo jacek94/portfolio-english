@@ -1,7 +1,0 @@
-Title: Strona Internetowa dla firmy Stanchem
-
-----
-
-
-Text: Wykorzystane technologie:  Javascript, HTML, CSS
-

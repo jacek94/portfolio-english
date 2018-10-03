@@ -16,7 +16,7 @@ My name is Jacek and i was always passion with programming. With the passing of 
 
 Resume-text: 
 
-#Podsumowanie
+#Resume
 
 
 
@@ -28,11 +28,11 @@ Git
 
 
 
-###Wykształcenie
+###Education
 
 2010-2014
-Technik elektronik. Zespół  Szkół Górniczo-Energetycznych im Stanisława  Staszica w Koninie
+Electronics technician. Mining-Energy School Complex in Konin .
 
 2014 - 2017
-Informatyka Stosowana. Uniwersytet Technologiczno - Przyrodniczy w Bydgoszczy
+Applied computer science. University of Technology and Life Science in Bydgoszcz.
 

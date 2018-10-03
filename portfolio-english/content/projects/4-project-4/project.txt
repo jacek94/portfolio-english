@@ -1,0 +1,7 @@
+Title: Website for Stanchem company
+
+----
+
+
+Text: Used technologies:  Javascript, HTML, CSS
+

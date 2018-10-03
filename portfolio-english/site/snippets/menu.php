@@ -22,7 +22,7 @@
 </nav>-->
 
 <ul id="main-nav" class="tabs">
-  <li class="tab-link current" data-tab="about">O mnie</li>
+  <li class="tab-link current" data-tab="about">About me</li>
   <li class="tab-link" data-tab="work">Portfolio</li>
-  <li class="tab-link" data-tab="resume">Podsumowanie</li>
+  <li class="tab-link" data-tab="resume">Resume</li>
 </ul>

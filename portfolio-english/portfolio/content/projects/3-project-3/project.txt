@@ -1,9 +1,0 @@
-Title: Strona Internetowa dla biura architektonicznego
-
-----
-
-
-Text: 
-
-
-Wykorzystane technologie: PHP, Javascript, HTML, CSS
